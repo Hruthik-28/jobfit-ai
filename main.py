@@ -774,7 +774,7 @@ def main():
     st.markdown("---")
     st.markdown("""
         <div class='footer'>
-            <p style='margin-bottom: 15px; font-size: 16px;'>Made with 🤖✨ by JobFit AI</p>
+            <p style='margin-bottom: 15px; font-size: 16px;'>Made with 🤖✨ by GetJobFit</p>
             <div style='display: flex; justify-content: center; gap: 20px;'>
                 <a href="https://www.linkedin.com/in/hruthik-ks/ target="_blank" class="social-link">
                     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" 
