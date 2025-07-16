@@ -252,7 +252,7 @@ def main():
     # Main Content Area
     st.markdown("""
         <div style='text-align: center; margin-bottom: 2rem;'>
-            <h1>🎯 JobFit AI - Advanced Resume Analyzer</h1>
+            <h1>🎯 GetJobFit - Advanced Resume Analyzer</h1>
             <p style='color: #6B7280;'>Your AI-powered career advancement assistant</p>
             <div class="header-images">
 <g mask="url(#mask0_18112_126989)">
